@@ -1,2 +1,2 @@
-# MultinomialNaiveBayes
-practice with MultinomialNB with sklearn
+# Naive-Bayes
+practice with naive Bayes
